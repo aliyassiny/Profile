@@ -1,9 +1,9 @@
 # Ali Anuar Yassin Yassin  
 
-- 🎓 Software Engineering student (8th semester), looking for an internship opportunity to apply and expand my technical skills.
-- 💻 Strong knowledge of programming, data structures, databases, software design, and agile methodologies.
-- 🛠️ Experience in customer service, sales, and logistics, which strengthened my organizational, teamwork, time management, and problem-solving skills.
-- 🚀 Passionate about software development and eager to contribute and positively impact projects.
+- 🎓 **Software Engineer** | Currently pursuing a Master's degree in **Business Innovation and Digital Transformation with Artificial Intelligence**. Seeking opportunities to apply advanced software development and AI-driven business strategy.
+- 💻 Solid background in programming, data structures, relational databases, software design, and agile methodologies.
+- 🛠️ Practical experience in logistics, sales, and operations management, developing strong organizational leadership, effective teamwork, time management, and strategic problem-solving skills.
+- 🚀 Driven by software innovation and digital transformation, eager to build high-impact tech solutions and contribute to enterprise growth.
 
 
 ## Languages:
@@ -25,10 +25,11 @@
 ## Tools
 
 - **VS Code**
-- **Github**
+- **GitHub**
 - **MySQL**
 - **Excel**
 - **Power BI**
+- **AI**
 
 
 # Innovation, adaptability, and teamwork drive my journey.  
@@ -36,5 +37,5 @@
 
 ## Contact
 
-- Number: (+57) 3044653013  
-- Email: Aliyassiny01@gmail.com  
+- **Phone:** (+57) 3044653013  
+- **Email:** Aliyassiny01@gmail.com
