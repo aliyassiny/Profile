@@ -6,7 +6,7 @@
 - 🚀 Driven by software innovation and digital transformation, eager to build high-impact tech solutions and contribute to enterprise growth.
 
 
-## Languages:
+## Languages
 
 - Spanish (Native)
 - English (Intermediate)
